@@ -1,5 +1,5 @@
 public class HelloWorld {
     static void main() {
-        System.out.println("Hello Conflict!");
+        System.out.println("friend was here");
     }
 }
